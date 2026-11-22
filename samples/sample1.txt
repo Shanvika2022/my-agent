@@ -1,0 +1,10 @@
+Mon: Ananya finished Playwright API regression tests for the Wire Transfer service (WIRE-302), 52 of 52 tests passed
+Mon: Vikram updated the SQL settlement data validation scripts for overnight batch clearing
+Tue: Staging deployment of Sprint 14 completed, smoke test passed in 12 minutes
+Tue: waiting on Infosec team approval for new SSL certificates on the payment endpoint, Vikram to follow up
+Wed: client demo with Corporate Treasury team went very well, they approved the new approval workflow
+Wed: risk that third-party KYC verification service latency (avg 3.1s) might impact SLA on 12 Dec launch, Ananya is monitoring
+Thu: fixed two high-priority defect retests in staging (WIRE-310, WIRE-314)
+Thu: Ravi stuck on a database deadlock in WIRE-320 during concurrent fund transfers, investigating with DBA
+Fri: next week we begin end-to-end performance load testing and prepare the release candidate checklist
+Fri: no access to the staging audit log bucket yet, access request ticket raised with DevOps

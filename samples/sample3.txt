@@ -1,0 +1,10 @@
+mon - ankit: finishe playwright script for wire trnsfer (PAY-882)... passed 24 test
+mon: rahul spend 3 hrs helpinf support with acct blance sync issue
+tue -- build 4.1 deployed to uat... regresion pass rate 88%
+tue: still waitin on security team token creds, meera to fllow up??
+wed: gateway timeout error 504 on payment mock... totally blocked regression on PAY-890!! no one owns this yet
+wed: treasury demo was grt client loved it :)
+thu: ankit stuck db deadlock on PAY-895 cant repro on local env..
+thu - fixed 2 bugs PAY-880 and 881
+fri: next week plan to start perf test and prep release signoff for thurs
+fri: dont have access to uat db logs yet, raised it ticket

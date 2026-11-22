@@ -1,0 +1,10 @@
+Mon: Kavita automated 18 Playwright end-to-end tests for the Biometric Login module (MBL-108)
+Mon: Deepa verified payment card unmasking rules for PCI-DSS compliance in Staging-1
+Tue: released Mobile Build 3.4.0 to QA environment, 76 of 80 automated regression tests passed
+Tue: waiting on Risk & Compliance team sign-off for real-time fraud alerts, Deepa to follow up by Wednesday
+Wed: milestone reached as the new UPI Instant Transfer UI passed all cross-browser accessibility checks
+Wed: risk that backend Core Banking API maintenance window on Friday night may delay weekend UAT sign-off
+Thu: Rohan investigated intermittent timeout errors on card PIN reset API (MBL-125), root cause identified as cache miss
+Thu: fixed defect MBL-130 where push notifications were duplicated on iOS devices
+Fri: next week we will run security penetration testing and execute the final regression sweep for Release 3.4
+Fri: Rohan is blocked waiting for test credit card numbers with expired CVVs from the card vendor

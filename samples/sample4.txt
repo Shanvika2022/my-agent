@@ -1,0 +1,3 @@
+Mon: Sanya automated 10 regression test cases for Payment Gateway (PAY-101), all passed.
+Wed: Blocked by test environment downtime in Staging-2, Sanya waiting on DevOps to restore the server.
+Fri: Next week we plan to run the final release smoke test on Friday.
